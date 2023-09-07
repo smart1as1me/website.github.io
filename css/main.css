@@ -1174,7 +1174,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff3328;
+  background: #38e2ac;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2296,7 +2296,7 @@ embed {
   white-space: nowrap;
 }
 body {
-  background: url("images/dongman1");
+  background: url("/images/dongman1");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
